@@ -33,7 +33,6 @@ program cgrid_shallow_water
   RPE_ACTIVE = .TRUE.
   RPE_DEFAULT_SBITS = 15
   RPE_IEEE_HALF = .TRUE.
-  RPE_IEEE_ROUNDING = .TRUE.
   
   dx%sbits = 23
   dy%sbits = 23
